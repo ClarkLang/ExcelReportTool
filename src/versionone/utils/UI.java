@@ -47,10 +47,11 @@ public class UI {
         ColourBean colour = new ColourBean();
         greyBackground.setBackground(colour.getTaskColour());
         
-        
-        
         jxl.write.Number number = new jxl.write.Number(1, 1, 30, greyBackground);
         sheet.addCell(number);
+        
+        sheet.mergeCells(1, 0, 3, 0); 
+//        sheet.mergeCells(1, 1, 1, 1);
         
         ExcelGeneratorUtils test = new ExcelGeneratorUtils();
         test.exportExcel(book);

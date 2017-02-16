@@ -1,0 +1,443 @@
+
+<HTML xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel">
+	<HEAD>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>
+			Members
+		</title>
+		<meta http-equiv="Expires" content="0">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta name="CODE_LANGUAGE" content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie3-2nav3-0">
+		<style>@page {mso-header-data: &LMembers&R; mso-header-margin: .5in; mso-footer-margin: .5in; mso-page-orientation: landscape; margin: 1.0in .75in 1.0in .75in; }
+	TABLE { mso-displayed-decimal-separator: "."; mso-displayed-thousand-separator: "," }
+	TR { mso-height-source: auto }
+	COL { mso-width-source: auto }
+	BR { mso-data-placement: same-cell }
+	.cell { BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-WEIGHT: 400; FONT-SIZE: 10pt; VERTICAL-ALIGN: bottom; BORDER-LEFT: medium none; COLOR: windowtext; BORDER-BOTTOM: medium none; FONT-STYLE: normal; FONT-FAMILY: Arial; WHITE-SPACE: nowrap; TEXT-DECORATION: none; mso-number-format: General; mso-rotate: 0; mso-background-source: auto; mso-pattern: auto; mso-generic-font-family: auto; mso-font-charset: 0; mso-protection: locked visible; mso-style-name: Normal; mso-style-id: 0 }
+	TD { BORDER-RIGHT: medium none; PADDING-RIGHT: 1px; BORDER-TOP: medium none; PADDING-LEFT: 1px; FONT-WEIGHT: 400; FONT-SIZE: 10pt; VERTICAL-ALIGN: bottom; BORDER-LEFT: medium none; COLOR: windowtext; PADDING-TOP: 1px; BORDER-BOTTOM: medium none; FONT-STYLE: normal; FONT-FAMILY: Arial; WHITE-SPACE: nowrap; TEXT-DECORATION: none; mso-number-format: General; mso-rotate: 0; mso-background-source: auto; mso-pattern: auto; mso-generic-font-family: auto; mso-font-charset: 0; mso-protection: locked visible; mso-style-parent: cell; mso-ignore: padding }
+	H1 { FONT-SIZE: 14pt; FONT-FAMILY: sans-serif }
+	H2 { FONT-SIZE: 12pt; FONT-FAMILY: sans-serif }
+	.columnheader { BACKGROUND: #dfdfdf; mso-pattern: auto none; mso-number-format: \@; }
+	.rowheader { BACKGROUND: #dfdfdf; mso-pattern: auto none }
+	/* Leave mso-number-format for data-plain as \@, so that string values that look like dates or numbers aren't mis-interpreted */
+	.data-plain { mso-number-format: \@; mso-style-parent: cell }
+	.data-longtext { mso-number-format: General; mso-style-parent: cell }
+	.data-currency { TEXT-ALIGN: right; mso-number-format: "#,##0"; mso-style-parent: cell }
+	.data-amount { TEXT-ALIGN: right; mso-number-format: "#,##0.00"; mso-style-parent: cell }
+	.data-percent { TEXT-ALIGN: right; mso-number-format: Percent; mso-style-parent: cell }
+	.data-date { TEXT-ALIGN: center; mso-number-format: "Short Date"; mso-style-parent: cell }
+	.context-header { TEXT-ALIGN: right; mso-style-parent: cell }
+	</style>
+		<!--[if gte mso 9]>
+	<xml>
+		<x:ExcelWorkbook>
+			<x:ExcelWorksheets>
+				<x:ExcelWorksheet>
+					<x:Name>Members</x:Name>
+					<x:WorksheetOptions>
+						<x:FreezePanes/>
+						<x:FrozenNoSplit/>
+						<x:SplitHorizontal>0</x:SplitHorizontal>
+						<x:TopRowBottomPane>0</x:TopRowBottomPane>
+						<x:SplitVertical>0</x:SplitVertical>
+						<x:LeftColumnRightPane>0</x:LeftColumnRightPane>
+					</x:WorksheetOptions>
+				</x:ExcelWorksheet>
+			</x:ExcelWorksheets>
+		</x:ExcelWorkbook>
+	</xml>
+	<![endif]-->
+	</HEAD>
+	<body>
+		<table>
+			<tr>
+				<td><table cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td class="columnheader" colspan="4">Title</td><td class="columnheader">Backlog</td><td class="columnheader">Feature Group</td><td class="columnheader">Status</td><td class="columnheader">Owner</td><td class="columnheader">Capacity</td><td class="columnheader">Detail Estimate</td><td class="columnheader">To Do</td><td class="columnheader"></td><td class="columnheader">ID</td><td class="columnheader">To Do</td><td class="columnheader">Dev Complete Planned Date</td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Alston Meng</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>57.00</td><td class="data-amount">57.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Test Design</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Alston Meng</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396766</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - test execution</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Alston Meng</td><td></td><td class="data-amount">15.00</td><td class="data-amount">15.00</td><td></td><td class="data-plain">TK-396767</td><td class="data-amount">15.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Test Design</td><td class="data-plain">Edit open-ended program in overview</td><td></td><td class="data-plain"></td><td class="data-plain">Alston Meng</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396785</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Test Design</td><td class="data-plain">Edit open-ended program in overview</td><td></td><td class="data-plain"></td><td class="data-plain">Alston Meng</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396786</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Amy Chen</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>51.00</td><td class="data-amount">51.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">Show the mentee that a relationship is closed.</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">8.00</td><td class="data-amount">8.00</td><td></td><td class="data-plain">TK-396823</td><td class="data-amount">8.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Show the mentee that a relationship is closed.</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396824</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">[B1702][Primary key]Lack of blue primary button in overview page popup and wizard popup and poxy popup</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-396896</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">[B1702][Primary key]Lack of blue primary button in overview page popup and wizard popup and poxy popup</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-396897</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">[b1702 BUGATHON]Wizard Summary Page: 3 scroll bars on page</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-396934</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">[b1702 BUGATHON]Wizard Summary Page: 3 scroll bars on page</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396935</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">i18n defects engineered by wrong use of parameters: DEVELOPMENT_MENTORING_SELECT_HINT=Select or type a {0}...</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-397210</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">i18n defects engineered by wrong use of parameters: DEVELOPMENT_MENTORING_SELECT_HINT=Select or type a {0}...</td><td></td><td class="data-plain"></td><td class="data-plain">Amy Chen</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397211</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Cherry Zhang</td><td></td><td></td><td></td><td></td><td class="data-amount">89.60</td><td>97.00</td><td class="data-amount">97.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Add icon in mentee card for free text</td><td class="data-plain">CDP-5778 Show Free Text Answers to Mentor</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">24.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-396829</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Add icon for free text in mentor card</td><td class="data-plain">CDP-5778 Show Free Text Answers to Mentee</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396836</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Add message for completed program in mentor home page</td><td class="data-plain">Mentor Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396845</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Show completed date in hint message in mentee home page</td><td class="data-plain">Mentee Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396856</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Implementation</td><td class="data-plain">[b1608 BUGATHON] Mentee Signup Form: Better to display mentor preferences but not matched area on mentor card.</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396940</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Implementation</td><td class="data-plain">i18n defects engineered by wrong use of parameters: DEVELOPMENT_MENTORING_SELECT_HINT=Select or type a {0}...</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">24.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-397208</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI- Give more space between ui elements under each section</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397363</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Delete “previous” button and “save&amp;launch” button？</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397364</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Add question mark for Topic and answer Type</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397365</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Change lunch confirm dialog text from &quot;Create&quot; to &quot;Lunch&quot;</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397366</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-change delete button in program image</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397367</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Program title (Link) should be in bold</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397383</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Card action button should be wide</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Cherry Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397384</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Clark Lang</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>95.00</td><td class="data-amount">89.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Automation Test</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Clark Lang</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96036</td><td class="data-amount"></td><td class="data-date"></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Automation Test</td><td class="data-plain">Automation Test</td><td></td><td class="data-plain"></td><td class="data-plain">Clark Lang</td><td></td><td class="data-amount">29.00</td><td class="data-amount">29.00</td><td></td><td class="data-plain">TK-396924</td><td class="data-amount">29.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Pick&amp;Refine automation test cases</td><td class="data-plain">Automation Test</td><td></td><td class="data-plain"></td><td class="data-plain">Clark Lang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396927</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">CC</td><td class="data-plain">Automation Test</td><td></td><td class="data-plain"></td><td class="data-plain">Clark Lang</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-396943</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Automate Test case</td><td class="data-plain">Automation Test</td><td></td><td class="data-plain"></td><td class="data-plain">Clark Lang</td><td></td><td class="data-amount">30.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-396944</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Ethan Zhang</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>95.00</td><td class="data-amount">95.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Add relationship status in parameters</td><td class="data-plain">Show the mentee that a relationship is closed.</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396822</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UT</td><td class="data-plain">Show the mentee that a relationship is closed.</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396825</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Add ended date in parameters</td><td class="data-plain">Mentor Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396848</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UT</td><td class="data-plain">Mentor Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">2.00</td><td class="data-amount">2.00</td><td></td><td class="data-plain">TK-396854</td><td class="data-amount">2.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Add ended date in parameters</td><td class="data-plain">Mentee Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">0.00</td><td class="data-amount">0.00</td><td></td><td class="data-plain">TK-396858</td><td class="data-amount">0.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Implementation</td><td class="data-plain">Adopt to new field PERSON_GUID in rest api /learning/delete</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">24.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-397195</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Bug fix</td><td class="data-plain">Adopt to new field PERSON_GUID in rest api /learning/delete</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-397197</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Implementation</td><td class="data-plain">Update CDP Logic to consume Person-Based Learning API information</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">24.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-397200</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Bug fix</td><td class="data-plain">Update CDP Logic to consume Person-Based Learning API information</td><td></td><td class="data-plain"></td><td class="data-plain">Ethan Zhang</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-397202</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Frank Peng</td><td></td><td></td><td></td><td></td><td class="data-amount">84.00</td><td>86.00</td><td class="data-amount">86.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">CD Pilot</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-396913</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Edit open-ended program in overview</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96019</td><td class="data-amount"></td><td class="data-date">3/1/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96015</td><td class="data-amount"></td><td class="data-date">3/1/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI&amp;Backend - Detail Design</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396899</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Backend - Add logic for initializing wizard page</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount">4.00</td><td class="data-amount">4.00</td><td></td><td class="data-plain">TK-396781</td><td class="data-amount">4.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Backend - Create a new type of MDF entity for open-ended programs</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount">4.00</td><td class="data-amount">4.00</td><td></td><td class="data-plain">TK-396772</td><td class="data-amount">4.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Backend - Change program save logic for open-ended program</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396774</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Backend - Bug fixing</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396779</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Adopt to new field PERSON_GUID in rest api /learning/delete</td><td></td><td class="data-plain">Plateau Integration</td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95752</td><td class="data-amount"></td><td class="data-date">2/20/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Update CDP Logic to consume Person-Based Learning API information</td><td></td><td class="data-plain">Development Plan</td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95743</td><td class="data-amount"></td><td class="data-date">3/1/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Programmatically Schedule Job</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Frank Peng</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96089</td><td class="data-amount"></td><td class="data-date">2/17/2017</td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Guoxuan Li</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>66.00</td><td class="data-amount">66.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - UT</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Guoxuan Li</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396783</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Field permission matrix refine</td><td class="data-plain">Edit open-ended program in overview</td><td></td><td class="data-plain"></td><td class="data-plain">Guoxuan Li</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396784</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Performance</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Guoxuan Li</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-396915</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UT</td><td class="data-plain">Adopt to new field PERSON_GUID in rest api /learning/delete</td><td></td><td class="data-plain"></td><td class="data-plain">Guoxuan Li</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397196</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UT</td><td class="data-plain">Update CDP Logic to consume Person-Based Learning API information</td><td></td><td class="data-plain"></td><td class="data-plain">Guoxuan Li</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397201</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Haiyun Jiang</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>54.00</td><td class="data-amount">54.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Test Design</td><td class="data-plain">ATL for Mentor Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Haiyun Jiang</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396794</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">ATL for Mentor Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Haiyun Jiang</td><td></td><td class="data-amount">13.00</td><td class="data-amount">13.00</td><td></td><td class="data-plain">TK-396800</td><td class="data-amount">13.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA -Design</td><td class="data-plain">RTL for Mentor Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Haiyun Jiang</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396805</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">RTL for Mentor Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Haiyun Jiang</td><td></td><td class="data-amount">8.00</td><td class="data-amount">8.00</td><td></td><td class="data-plain">TK-396811</td><td class="data-amount">8.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">Programmatically Schedule Job</td><td></td><td class="data-plain"></td><td class="data-plain">Haiyun Jiang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397158</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Programmatically Schedule Job</td><td></td><td class="data-plain"></td><td class="data-plain">Haiyun Jiang</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-397159</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Hao Biao</td><td></td><td></td><td></td><td></td><td class="data-amount">72.00</td><td>75.00</td><td class="data-amount">75.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Support</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396780</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">ATL for Mentor Sign Up Pages</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95328</td><td class="data-amount"></td><td class="data-date">2/21/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Implementation</td><td class="data-plain">ATL for Mentor Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount">42.00</td><td class="data-amount">42.00</td><td></td><td class="data-plain">TK-396787</td><td class="data-amount">42.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">RTL for Mentor Sign Up Pages</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95330</td><td class="data-amount"></td><td class="data-date">2/21/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Support</td><td class="data-plain">RTL for Mentor Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-397213</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">ATL for Mentee Sign Up Pages</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95331</td><td class="data-amount"></td><td class="data-date">2/28/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Implementation</td><td class="data-plain">ATL for Mentee Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount">24.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-396789</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">RTL for Mentee Sign Up Pages</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95329</td><td class="data-amount"></td><td class="data-date">2/27/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Support</td><td class="data-plain">RTL for Mentee Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-397215</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Show the mentee that a relationship is closed.</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95314</td><td class="data-amount"></td><td class="data-date">2/15/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">[b1608 BUGATHON] Mentee Signup Form: Better to display mentor preferences but not matched area on mentor card.</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95326</td><td class="data-amount"></td><td class="data-date">2/22/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96032</td><td class="data-amount"></td><td class="data-date"></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Hao Biao</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96033</td><td class="data-amount"></td><td class="data-date"></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Jojo Wang</td><td></td><td></td><td></td><td></td><td class="data-amount">89.60</td><td>90.00</td><td class="data-amount">90.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UT</td><td class="data-plain">Mentee Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">2.00</td><td class="data-amount">2.00</td><td></td><td class="data-plain">TK-396863</td><td class="data-amount">2.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Implementation</td><td class="data-plain">Programmatically Schedule Job</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-397147</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UT</td><td class="data-plain">Programmatically Schedule Job</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397148</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Bug fixing</td><td class="data-plain">Programmatically Schedule Job</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397150</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Customer issue support - Jojo</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">20.00</td><td class="data-amount">20.00</td><td></td><td class="data-plain">TK-397335</td><td class="data-amount">20.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">CDP-5831 Update Launch/Invitation/Start Date According to event happens date</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95483</td><td class="data-amount"></td><td class="data-date"></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Backend - Replace promised date with actual date</td><td class="data-plain">CDP-5831 Update Launch/Invitation/Start Date According to event happens date</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396867</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UT</td><td class="data-plain">CDP-5831 Update Launch/Invitation/Start Date According to event happens date</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">2.00</td><td class="data-amount">2.00</td><td></td><td class="data-plain">TK-396868</td><td class="data-amount">2.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">i18n defects engineered by wrong use of parameters: DEVELOPMENT_MENTORING_SELECT_HINT=Select or type a {0}...</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95790</td><td class="data-amount"></td><td class="data-date">2/17/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Backend - Follow up</td><td class="data-plain">i18n defects engineered by wrong use of parameters: DEVELOPMENT_MENTORING_SELECT_HINT=Select or type a {0}...</td><td></td><td class="data-plain"></td><td class="data-plain">Jojo Wang</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397209</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Lily (Xiaoxin) Wu</td><td></td><td></td><td></td><td></td><td class="data-amount">60.00</td><td>39.00</td><td class="data-amount">39.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Customer issue support - Lily</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Lily (Xiaoxin) Wu</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396919</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Pick&amp;Refine automation test cases</td><td class="data-plain">Automation Test</td><td></td><td class="data-plain"></td><td class="data-plain">Lily (Xiaoxin) Wu</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396926</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">Mentoring Dates to support i18N: Unavailable end date and program dates should consider different time zone different</td><td></td><td class="data-plain"></td><td class="data-plain">Lily (Xiaoxin) Wu</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-397142</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Mentoring Dates to support i18N: Unavailable end date and program dates should consider different time zone different</td><td></td><td class="data-plain"></td><td class="data-plain">Lily (Xiaoxin) Wu</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-397143</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Lina Xiao</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>62.00</td><td class="data-amount">62.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">ATL for Mentee Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">15.00</td><td class="data-amount">15.00</td><td></td><td class="data-plain">TK-396814</td><td class="data-amount">15.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">ATL for Mentee Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396815</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">RTL for Mentee Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">5.00</td><td class="data-amount">5.00</td><td></td><td class="data-plain">TK-396816</td><td class="data-amount">5.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">RTL for Mentee Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396817</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">Mentor Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396851</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Mentor Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396853</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">Mentee Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396860</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Mentee Home page: Better to have indication for a completed program</td><td></td><td class="data-plain"></td><td class="data-plain">Lina Xiao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396862</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Mansur Ma</td><td></td><td></td><td></td><td></td><td class="data-amount">72.80</td><td>75.00</td><td class="data-amount">75.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">CDP-5831 Update Launch/Invitation/Start Date According to event happens date</td><td></td><td class="data-plain"></td><td class="data-plain">Mansur Ma</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-396889</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">CDP-5831 Update Launch/Invitation/Start Date According to event happens date</td><td></td><td class="data-plain"></td><td class="data-plain">Mansur Ma</td><td></td><td class="data-amount">15.00</td><td class="data-amount">15.00</td><td></td><td class="data-plain">TK-396890</td><td class="data-amount">15.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Mansur Ma</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-397149</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Mansur Ma</td><td></td><td class="data-amount">15.00</td><td class="data-amount">15.00</td><td></td><td class="data-plain">TK-397151</td><td class="data-amount">15.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution(ATL)</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Mansur Ma</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397152</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">SUPT - Mansur</td><td class="data-plain">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Mansur Ma</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-397405</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Qi Zhang</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>82.00</td><td class="data-amount">82.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Related behavior change in wizard</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-396764</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Related behavior change in overview</td><td class="data-plain">Edit open-ended program in overview</td><td></td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-396765</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-add more space between discription and avilability control</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397376</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Use standard control for availability status (no text)</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397377</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-No Activity created yet should be in liter grey- Mentor</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397378</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-No Activity created yet should be in liter grey- Mentee</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397379</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">[b1702 BUGATHON]Wizard Summary Page: 3 scroll bars on page</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95279</td><td class="data-amount"></td><td class="data-date"></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Bug fix</td><td class="data-plain">[b1702 BUGATHON]Wizard Summary Page: 3 scroll bars on page</td><td></td><td class="data-plain"></td><td class="data-plain">Qi Zhang</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396931</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Ruud Xu</td><td></td><td></td><td></td><td></td><td class="data-amount">50.40</td><td>51.00</td><td class="data-amount">51.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Customer issue support - Ruud</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Ruud Xu</td><td></td><td class="data-amount">15.00</td><td class="data-amount">15.00</td><td></td><td class="data-plain">TK-397308</td><td class="data-amount">15.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Ad hoc report change for open-ended program</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Ruud Xu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96034</td><td class="data-amount"></td><td class="data-date"></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UT</td><td class="data-plain">Ad hoc report change for open-ended program</td><td></td><td class="data-plain"></td><td class="data-plain">Ruud Xu</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396909</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">Backend - Ad hoc report change for open-ended program</td><td class="data-plain">Ad hoc report change for open-ended program</td><td></td><td class="data-plain"></td><td class="data-plain">Ruud Xu</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-396910</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Stella Gao</td><td></td><td></td><td></td><td></td><td class="data-amount">72.80</td><td>25.00</td><td class="data-amount">25.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">EAP - Stella</td><td class="data-plain">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Stella Gao</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396917</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Customer issue support - Stella</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Stella Gao</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396920</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Add test case id for closed defects</td><td class="data-plain">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Stella Gao</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397337</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Writing navigation document for atl team</td><td class="data-plain">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Stella Gao</td><td></td><td class="data-amount">4.00</td><td class="data-amount">4.00</td><td></td><td class="data-plain">TK-397339</td><td class="data-amount">4.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Sunway Li</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>39.00</td><td class="data-amount">39.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Customer issue support - Sunway</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Sunway Li</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396918</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Automation Function Review</td><td class="data-plain">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Sunway Li</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396922</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">Adopt to new field PERSON_GUID in rest api /learning/delete</td><td></td><td class="data-plain"></td><td class="data-plain">Sunway Li</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-397198</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Adopt to new field PERSON_GUID in rest api /learning/delete</td><td></td><td class="data-plain"></td><td class="data-plain">Sunway Li</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397199</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Update CDP Logic to consume Person-Based Learning API information</td><td></td><td class="data-plain"></td><td class="data-plain">Sunway Li</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-397203</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Tai Wu</td><td></td><td></td><td></td><td></td><td class="data-amount">78.40</td><td>84.00</td><td class="data-amount">84.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Support</td><td class="data-plain">Edit open-ended program in overview</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-396782</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-94692</td><td class="data-amount"></td><td class="data-date">3/1/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Implementation item 1</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-397138</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Implemnetation - item 2</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">15.00</td><td class="data-amount">15.00</td><td></td><td class="data-plain">TK-397153</td><td class="data-amount">15.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - implementation - Item 3</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-397154</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - implementation - item 4</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-397155</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - implementation - item 5</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">21.00</td><td class="data-amount">21.00</td><td></td><td class="data-plain">TK-397156</td><td class="data-amount">21.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - implementation - item 6</td><td class="data-plain">UI Consistency on Learning activities</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-397157</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">CDP-5778 Show Free Text Answers to Mentor</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95671</td><td class="data-amount"></td><td class="data-date">2/28/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">CDP-5778 Show Free Text Answers to Mentee</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95670</td><td class="data-amount"></td><td class="data-date">2/27/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Mentor Home page: Better to have indication for a completed program</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95318</td><td class="data-amount"></td><td class="data-date">2/13/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Mentee Home page: Better to have indication for a completed program</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95311</td><td class="data-amount"></td><td class="data-date">2/10/2017</td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Mentoring Dates to support i18N: Unavailable end date and program dates should consider different time zone different</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95308</td><td class="data-amount"></td><td class="data-date">2/8/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Support</td><td class="data-plain">Mentoring Dates to support i18N: Unavailable end date and program dates should consider different time zone different</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">3.00</td><td class="data-amount">3.00</td><td></td><td class="data-plain">TK-397141</td><td class="data-amount">3.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-96094</td><td class="data-amount"></td><td class="data-date">3/1/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI-Add question mark for Mentoring Availability Title</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397368</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI-Choose different mentor beside the Activity Plan</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397382</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI-icon (matching icon) needs to be enhanced (design enhancements)</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Tai Wu</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397385</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Xue Han</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>94.00</td><td class="data-amount">94.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Implementation</td><td class="data-plain">RTL for Mentor Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">21.00</td><td class="data-amount">21.00</td><td></td><td class="data-plain">TK-396788</td><td class="data-amount">21.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Implementation</td><td class="data-plain">RTL for Mentee Sign Up Pages</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396790</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI - Add red warning label</td><td class="data-plain">Show the mentee that a relationship is closed.</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">24.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-396821</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Button Text change (Start Signup changed to Join)</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397369</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Delete the description of “Select criteria that best match with your interests for your mentees”</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397370</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Add back button</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397371</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-message change for choose mentor for supervised matching.</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397372</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Delete the description of“Select criteria that best match with your interests for your mentors.”  And description change to “Describe your ideal mentor”  replace “choose your proferences”</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397373</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Title Text change</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397374</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">UI-Add back button</td><td class="data-plain">Fit&amp;Finish</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">1.00</td><td class="data-amount">1.00</td><td></td><td class="data-plain">TK-397375</td><td class="data-amount">1.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">[B1702][Primary key]Lack of blue primary button in overview page popup and wizard popup and poxy popup</td><td></td><td class="data-plain">CDP Mentoring Program</td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount"></td><td class="data-amount"></td><td></td><td class="data-plain">B-95782</td><td class="data-amount"></td><td class="data-date">2/13/2017</td>
+		</tr><tr>
+			<td></td><td></td><td class="data-plain" colspan="2">UI - Set blue primary button in all page</td><td class="data-plain">[B1702][Primary key]Lack of blue primary button in overview page popup and wizard popup and poxy popup</td><td></td><td class="data-plain"></td><td class="data-plain">Xue Han</td><td></td><td class="data-amount">24.00</td><td class="data-amount">24.00</td><td></td><td class="data-plain">TK-396895</td><td class="data-amount">24.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Yilong Wu</td><td></td><td></td><td></td><td></td><td class="data-amount">95.20</td><td>102.00</td><td class="data-amount">102.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Change status transition logic including all status changing SCAs</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Yilong Wu</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396775</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Change invitation logic</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Yilong Wu</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396776</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Change sign-up form creation logic</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Yilong Wu</td><td></td><td class="data-amount">12.00</td><td class="data-amount">12.00</td><td></td><td class="data-plain">TK-396777</td><td class="data-amount">12.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Change notification logic for open-ended programs</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Yilong Wu</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396778</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Backend - Bug fixing</td><td class="data-plain">Create open-ended program in wizard</td><td></td><td class="data-plain"></td><td class="data-plain">Yilong Wu</td><td></td><td class="data-amount">18.00</td><td class="data-amount">18.00</td><td></td><td class="data-plain">TK-396819</td><td class="data-amount">18.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">CD Pilot - part2</td><td class="data-plain">Unplanned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Yilong Wu</td><td></td><td class="data-amount">30.00</td><td class="data-amount">30.00</td><td></td><td class="data-plain">TK-396914</td><td class="data-amount">30.00</td><td></td>
+		</tr><tr>
+			<td class="data-plain" colspan="4">Yvonne Yu</td><td></td><td></td><td></td><td></td><td class="data-amount">89.60</td><td>85.00</td><td class="data-amount">85.00</td><td></td><td></td><td></td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">CDP-5778 Show Free Text Answers to Mentor</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">13.00</td><td class="data-amount">13.00</td><td></td><td class="data-plain">TK-396831</td><td class="data-amount">13.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">CDP-5778 Show Free Text Answers to Mentor</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">15.00</td><td class="data-amount">15.00</td><td></td><td class="data-plain">TK-396832</td><td class="data-amount">15.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">CDP-5778 Show Free Text Answers to Mentee</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">8.00</td><td class="data-amount">8.00</td><td></td><td class="data-plain">TK-396838</td><td class="data-amount">8.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">CDP-5778 Show Free Text Answers to Mentee</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">8.00</td><td class="data-amount">8.00</td><td></td><td class="data-plain">TK-396839</td><td class="data-amount">8.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Design</td><td class="data-plain">Ad hoc report change for open-ended program</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">9.00</td><td class="data-amount">9.00</td><td></td><td class="data-plain">TK-396911</td><td class="data-amount">9.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">QA - Execution</td><td class="data-plain">Ad hoc report change for open-ended program</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">20.00</td><td class="data-amount">20.00</td><td></td><td class="data-plain">TK-396912</td><td class="data-amount">20.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">EAP - Yvonne</td><td class="data-plain">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-396916</td><td class="data-amount">6.00</td><td></td>
+		</tr><tr>
+			<td></td><td class="data-plain" colspan="3">Critical customer template - Yvonne</td><td class="data-plain">Planned Tasks</td><td></td><td class="data-plain"></td><td class="data-plain">Yvonne Yu</td><td></td><td class="data-amount">6.00</td><td class="data-amount">6.00</td><td></td><td class="data-plain">TK-397408</td><td class="data-amount">6.00</td><td></td>
+		</tr>
+	</tbody>
+</table></td>
+			</tr>
+		</table>
+		
+	</body>
+</HTML>
